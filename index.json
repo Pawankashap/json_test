@@ -1,19 +1,24 @@
 {
   "animals": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Cat",
       "description": "This is animal desc"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Dog",
       "description": "This is animal desc"
     },
     {
-      "id": "7232",
+      "id": 3,
       "name": "Cat123",
       "description": "This is animal desc"
+    },
+    {
+      "name": "test name",
+      "description": "test description",
+      "id": 4
     }
   ]
 }
